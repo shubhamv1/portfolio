@@ -26,13 +26,13 @@ const About = () => {
               <article className='about__card'>
                   <GiGraduateCap className='about__icon'/>
                   <h5>Degree</h5>
-                  <small>Bsc.(Hons) Software Engneering(UG) <br /><i>University of Kelaniya.</i></small>
+                  <small>B.Tech in Computer Science <br /><i>Chaudhary Charan Singh University</i></small>
               </article>
 
               <article className='about__card'>
                   <BsBookmarkStar className='about__icon'/>
-                  <h5>Current GPA</h5>
-                  <small>3.13</small>
+                  <h5>CGPA</h5>
+                  <small>8.0</small>
               </article>
 
               <article className='about__card'>
@@ -40,8 +40,8 @@ const About = () => {
                   <h5>Domains</h5>
                   <small>
                     <ul>
-                      <li>Net Centric</li>
-                      <li>Mobile Applications</li>
+                      <li>Computer Science</li>
+                      
                     </ul>
                   </small>
               </article>
@@ -50,7 +50,7 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b>Software Engineering Undergradute</b> at the University of Kelaniya. 
+                    I'm a <b>Software Engineering Undergradute</b> at the SCRIET , CCSU CAMPUS. 
                     I'm an enthusiastic and driven Software Engineering student seeking a challenging internship opportunity to apply 
                     and expand my technical skills. 
                     With a strong academic foundation in software engineering and hands-on experience in various programming languages,
